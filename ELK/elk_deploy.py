@@ -1,7 +1,7 @@
 import pymake
 import paramiko
 
-import configuration
+from ELK import configuration
 
 
 class ClusterDeploy:

@@ -21,7 +21,7 @@ Before  Running :
 
 RUN :
 * pip install requirements.txt
-* python elk_deploy.py
+* python setup.py
 
 
 Next Update :
